@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @IstianPull
-- 👀 I’m interested in ... Game development
-- 🌱 I’m currently learning ... Unity and c# 
-- 💞️ I’m looking to collaborate on ... Gamedev
-- 📫 How to reach me ... tianenore@gmail.com
+"My goal is no longer to get more done, but rather to have less to do." 
+- Francine Jay
 
 <!---
 IstianPull/IstianPull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
